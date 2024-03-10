@@ -1,0 +1,5 @@
+node_modules
+resyme
+venv
+*.DS_Store
+*.env
